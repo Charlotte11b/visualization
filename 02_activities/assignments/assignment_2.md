@@ -10,25 +10,19 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      A bad example of data visualization: https://public.tableau.com/app/profile/elena.cherednikova/viz/TheCutestAnnualFinancialReport/Cutereview. I think this is a bad example because it uses low-contrast colour. The style and mono-colour theme doesn't highlight important data which makes the data or the evidence less focused. It doesn't highlight data from similar categories for comparison either. The line chart can show different subcategories statistics but the "click to highlight" was not obvious, and also users have to click through all the lines to find their subcategory of interest.
 
-
-
-
-
-
+      A good example of data visualization: https://public.tableau.com/app/profile/louis.phipps/viz/SuperstorePerformanceOverview_17597480977740/Performance. This visualizaton is effective because it presents information in a clear and organized way. Key performance numbers are easy to find, and charts are arranged logically so viewers can understand overall performance before looking at details. The layout helps guide the viewer’s attention instead of overwhelming them. The charts mainly use bars and line graphs, which make it easy to compare values and see trends over time. Colors are used sparingly and consistently to highlight important differences rather than distract from the data.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      The first visualization can be improved by:
+      1. reduce decorative elements
+      2. use simpler chart styles for comparisons. For example, the line graph shows the trend of each sub-category but it's hard to compare between them.
+      3. Improve visual hierarchy. If the overall total sales, total profit, etc are the most important information, they should take more areas on the chart with larger fonts or more appealing colors. 
+      4. Use higher-contrast colors, larger text, and clearer labels
 
-
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
