@@ -23,6 +23,10 @@
       3. Improve visual hierarchy. If the overall total sales, total profit, etc are the most important information, they should take more areas on the chart with larger fonts or more appealing colors. 
       4. Use higher-contrast colors, larger text, and clearer labels
 
+      The seconde visualization can be further improved by:
+      1. The filter feature can be more explicit to prevent misinterpretation of sliced views.
+      2. Provide definition and annotations for some specific terms to improve user engagement and accessibility. For example, terms like "YTD/MTD" or "profit ratio". 
+
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
